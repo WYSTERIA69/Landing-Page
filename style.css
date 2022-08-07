@@ -160,3 +160,15 @@ header h1{
   padding: 0px;
   align-items: center;
 } */
+
+nav{
+  background-color:antiquewhite;
+  padding: 20px;
+}
+
+nav li{
+  background-color: none;
+  width: 25%;
+  display: inline-block;
+  font-size: 28px;
+}
